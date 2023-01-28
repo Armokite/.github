@@ -2,6 +2,8 @@
 
 Robotic arms have been an essential part of the industry for decades, and with the advancements in technology, the capabilities of these robotic arms have increased significantly. One such robotic arm is the Armok, a versatile robotic arm that can be used for various purposes such as heavy soldering, building, toxic material handling, and high-risk operations. The Armok is designed to improve and enhance the quality of work by reducing time and increasing efficiency. This paper aims to provide a detailed description of the Armok robotic arm, including its design, components, and capabilities.
 
+![Armok](https://user-images.githubusercontent.com/69056618/215267822-02a69df4-0319-4f62-b360-f050e6f83e52.jpeg)
+
 # Design and Components
 
 The Armok is designed using Proteus for circuit and PCB designing, 3D designing software such as SolidWorks and TinkedCAD, and 3D printing using Ultimaker Pro and DexBot 3D printing. The arm is powered by MATLAB for machine learning simulation and IOT using Blynk. Robotics is implemented using the ROS platform, and machine learning is implemented using Python libraries. The control panel and dashboard are developed using open-source tools, and project collaboration and development are done using GitHub. The software platform used for the Armok includes BLYNK IOT CLOUD, PYTHON OPEN CV, FIREBASE SERVER, ROS, ARDUINO IDE, PROTEUS, SOLIDWORKS, ULTIMAKER PRO, TINKERCAD, MIT APP INVENTOR, CANVA, VS CODE, and the languages used include C++, JAVASCRIPT, and HTML.
